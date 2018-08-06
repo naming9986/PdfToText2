@@ -1,0 +1,22 @@
+This is another test PDF file with some data for extraction. It is set up as a test file with similar text to
+the first test file.
+
+Name of file: Test2
+
+Table of data
+
+SALES DATA
+Widgets                                                                                            5,987.34
+Gadgets                                                                                            1,745.45
+Trinkets                                                                                             897.98
+
+
+Here is some more information that this information was submitted by Bob Smith sales representative.
+
+
+
+Heading
+The test2 information here is highly sought and should be extracted.
+
+Title
+

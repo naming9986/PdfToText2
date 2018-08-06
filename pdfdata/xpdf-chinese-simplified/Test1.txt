@@ -1,0 +1,23 @@
+This is the one test PDF file with some data for extraction. It is set up as a test file with similar text to
+the other test file.
+
+Name of file: Test1
+
+Table of data
+
+SALES DATA
+Widgets                                                                                            4,300.78
+Gadgets                                                                                            7,890.45
+Trinkets                                                                                             345.98
+
+
+Here is some more information that this information was submitted by Joe Bloggs sales
+representative.
+
+
+
+Heading
+This is critical information about the test1 data.
+
+Title
+

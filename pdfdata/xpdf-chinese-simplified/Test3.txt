@@ -1,0 +1,34 @@
+This is another test PDF file with some data for extraction. It is set up as a test file with similar text to
+the other test files, except that we have multiple instances of data for extraction.
+
+Name of file: Test3
+
+Regional Area 1
+
+SALES DATA
+Widgets                                               4,562.11
+Gadgets                                               5,621.32
+Trinkets                                              234.47
+
+
+
+Regional Area 2
+
+SALES DATA
+Widgets                                               2,451.87
+Gadgets                                               7,322.98
+Trinkets                                              1,123.76
+
+
+
+Regional Area 3
+
+SALES DATA
+Widgets                                               893.45
+Gadgets                                               4,323.45
+Trinkets                                              883.23
+
+
+
+This information was submitted by Mary Smith sales representative.
+
